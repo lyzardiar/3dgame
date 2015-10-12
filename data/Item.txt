@@ -1,0 +1,185 @@
+[item0]
+ ImagePath="UI\\Spell_Empty.jpg"
+[item1]
+ name="新手hp药剂"
+ value=100;
+ skillindex=10
+
+[item2]
+ name="达人hp药剂"
+ skillindex=11
+ value=200;
+
+[item3]
+ name="天堂hp药剂"
+ value=500;
+ skillindex=12
+
+[item4]
+ name="新手mp药剂"
+ value=100;
+ skillindex=13
+
+[item5]
+ name="达人mp药剂"
+ value=200;
+ skillindex=14
+
+[item6]
+ name="天堂mp药剂"
+ value=500;
+ skillindex=15
+[item7]
+ name="原力法杖"
+ value=500;
+ Celerity=10;
+  Strength=10;
+  Brains=10;
+
+[item8]
+name="水晶剑"
+ value=1500;
+ Strength=20;
+ Celerity=15;
+  Brains=15;
+
+[item9]
+  name="夜叉"
+  value=2000;
+  Celerity=30;
+  Strength=15;
+  Brains=15;
+
+[item10]
+name="神秘法杖"
+ value=2500;
+  Celerity=30;
+  Strength=25;
+  Brains=15;
+
+[item11]
+ name="撒旦的堕落之尘"
+  value=4500;
+  Celerity=60;
+  Strength=60;
+  Brains=35;
+
+[item12]
+ name="狼骨胸甲"
+ value=500;
+  Celerity=5;
+  Strength=10;
+  Brains=10;
+
+[item13]
+ name="原罪封印胸甲"
+ value=2500;
+  Celerity=20;
+  Strength=30;
+  Brains=20;
+
+[item14]
+ name="赤炼胸甲"
+ value=3500;
+  Celerity=50;
+  Strength=50;
+  Brains=40;
+
+[item15]
+ name="狼骨护腿"
+ value=500;
+ Celerity=10;
+  Strength=5;
+  Brains=10;
+
+[item16]
+ name="原罪封印护腿"
+ Celerity=30;
+  Strength=20;
+  Brains=20;
+ value=2500;
+
+[item17]
+ name="赤炼护腿"
+ value=3500;
+ Celerity=40;
+  Strength=50;
+  Brains=50;
+
+[item18]
+ name="奎尔塞拉"
+ value=8000
+ Celerity=40;
+ Strength=50;
+ Brains=50;
+
+[item19]
+  name="阿什坎迪·兄弟会之剑"
+  value=10000;
+  Celerity=40;
+  Strength=50;
+   Brains=25;
+
+[item20]
+ name="萨弗拉斯·炎魔拉格纳罗斯之手"
+ valus=10000
+ Celerity=100;
+  Strength=100;
+  Brains=100;
+
+
+[item21]
+ name="埃提耶什，守护者的传说之杖"
+ valus=10000
+ Celerity=100;
+  Strength=100;
+  Brains=100;
+
+[item22]
+ name="堕落的灰烬使者"
+ valus=20000
+ Celerity=200;
+  Strength=200;
+  Brains=200;
+
+
+[item23]
+ name="索利达尔·群星者之怒"
+ value=2000;
+ Celerity=200;
+  Strength=200;
+  Brains=200;
+
+[item24]
+ name="埃辛诺斯战刃(右手)"
+ value=20000;
+ Celerity=200;
+  Strength=200;
+  Brains=200;
+
+[item25]
+ name="埃辛诺斯战刃(左手)"
+  value=20000;
+  Celerity=200;
+  Strength=200;
+  Brains=200;
+
+[item26]
+ name="雷霆之怒·逐风者祝福之剑"
+  value=30000;
+  Celerity=200;
+  Strength=200;
+  Brains=200;
+  
+[item27]
+ name="影之哀伤"
+ value=50000
+ Celerity=400;
+  Strength=500;
+  Brains=500;
+
+
+
+
+
+ 

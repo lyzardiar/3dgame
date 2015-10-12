@@ -1,0 +1,143 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 3dgame - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA85F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/3dgame.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\MyStudy\大四（上）\3dgame\3dgame.cpp"
+"E:\MyStudy\大四（上）\3dgame\BagWnd.cpp"
+"E:\MyStudy\大四（上）\3dgame\BoundBox.cpp"
+"E:\MyStudy\大四（上）\3dgame\Camera.cpp"
+"E:\MyStudy\大四（上）\3dgame\CharactorWnd.cpp"
+"E:\MyStudy\大四（上）\3dgame\ChatButtom.cpp"
+"E:\MyStudy\大四（上）\3dgame\ChatPopWnd.cpp"
+"E:\MyStudy\大四（上）\3dgame\Font.cpp"
+"E:\MyStudy\大四（上）\3dgame\GameLoop.cpp"
+"E:\MyStudy\大四（上）\3dgame\GameProc.cpp"
+"E:\MyStudy\大四（上）\3dgame\GameScript.cpp"
+"E:\MyStudy\大四（上）\3dgame\ItemBtn.cpp"
+"E:\MyStudy\大四（上）\3dgame\LoginProc.cpp"
+"E:\MyStudy\大四（上）\3dgame\Monster.cpp"
+"E:\MyStudy\大四（上）\3dgame\Panel.cpp"
+"E:\MyStudy\大四（上）\3dgame\PDList.cpp"
+"E:\MyStudy\大四（上）\3dgame\Player.cpp"
+"E:\MyStudy\大四（上）\3dgame\RoleInfo.cpp"
+"E:\MyStudy\大四（上）\3dgame\SkillWnd.cpp"
+"E:\MyStudy\大四（上）\3dgame\SkinMesh.cpp"
+"E:\MyStudy\大四（上）\3dgame\SkyBox.cpp"
+"E:\MyStudy\大四（上）\3dgame\Terrain.cpp"
+"E:\MyStudy\大四（上）\3dgame\Water.cpp"
+"E:\MyStudy\大四（上）\3dgame\dxutil.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA85F.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA870.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/3dgame.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\MyStudy\大四（上）\3dgame\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA870.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA871.tmp" with contents
+[
+winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib d3d9.lib d3dx9.lib lua5.1.lib lua51.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/3dgame.pdb" /debug /machine:I386 /out:"Debug/3dgame.exe" /pdbtype:sept 
+".\Debug\3dgame.obj"
+".\Debug\BagWnd.obj"
+".\Debug\BoundBox.obj"
+".\Debug\Camera.obj"
+".\Debug\CharactorWnd.obj"
+".\Debug\ChatButtom.obj"
+".\Debug\ChatPopWnd.obj"
+".\Debug\Font.obj"
+".\Debug\GameLoop.obj"
+".\Debug\GameProc.obj"
+".\Debug\GameScript.obj"
+".\Debug\ItemBtn.obj"
+".\Debug\LoginProc.obj"
+".\Debug\Monster.obj"
+".\Debug\Panel.obj"
+".\Debug\PDList.obj"
+".\Debug\Player.obj"
+".\Debug\RoleInfo.obj"
+".\Debug\SkillWnd.obj"
+".\Debug\SkinMesh.obj"
+".\Debug\SkyBox.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Terrain.obj"
+".\Debug\Water.obj"
+".\Debug\dxutil.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA871.tmp"
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+3dgame.cpp
+BagWnd.cpp
+Camera.cpp
+CharactorWnd.cpp
+Font.cpp
+GameLoop.cpp
+Panel.cpp
+PDList.cpp
+SkyBox.cpp
+Terrain.cpp
+Water.cpp
+dxutil.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+BoundBox.cpp
+ChatButtom.cpp
+ChatPopWnd.cpp
+GameProc.cpp
+GameScript.cpp
+ItemBtn.cpp
+LoginProc.cpp
+Monster.cpp
+Player.cpp
+RoleInfo.cpp
+SkillWnd.cpp
+SkinMesh.cpp
+Linking...
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPACA6.tmp" with contents
+[
+/nologo /o"Debug/3dgame.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\3dgame.sbr"
+".\Debug\BagWnd.sbr"
+".\Debug\BoundBox.sbr"
+".\Debug\Camera.sbr"
+".\Debug\CharactorWnd.sbr"
+".\Debug\ChatButtom.sbr"
+".\Debug\ChatPopWnd.sbr"
+".\Debug\Font.sbr"
+".\Debug\GameLoop.sbr"
+".\Debug\GameProc.sbr"
+".\Debug\GameScript.sbr"
+".\Debug\ItemBtn.sbr"
+".\Debug\LoginProc.sbr"
+".\Debug\Monster.sbr"
+".\Debug\Panel.sbr"
+".\Debug\PDList.sbr"
+".\Debug\Player.sbr"
+".\Debug\RoleInfo.sbr"
+".\Debug\SkillWnd.sbr"
+".\Debug\SkinMesh.sbr"
+".\Debug\SkyBox.sbr"
+".\Debug\Terrain.sbr"
+".\Debug\Water.sbr"
+".\Debug\dxutil.sbr"]
+Creating command line "bscmake.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPACA6.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+3dgame.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

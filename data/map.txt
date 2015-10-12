@@ -1,0 +1,2 @@
+[map0]
+monstercnt=3

@@ -1,0 +1,46 @@
+[Mon0]
+  name="死亡之翼"
+  filepath="model\\骨龙.x"
+  MaxHp=1000
+  MaxMp=0
+  Strength=50
+  itemindex=1
+  scale=50
+  modelhigh=52
+  RailwayIndex=1
+  x=-180
+  y=180
+  z=414
+[Mon1]
+  name="奈法利安"
+  filepath="model\\frostwurm.x"
+  MaxHp=1000
+  MaxMp=0
+  Strength=50
+  itemindex=1
+  scale=50
+  modelhigh=50
+  x=308
+  z=-336
+  TaskIndex=1
+[Mon2]
+  name="伊利丹·怒风"
+  filepath="model\\恶魔猎手.x"
+  MaxHp=2000
+  MaxMp=1000
+  Strength=50
+  itemindex=2
+  scale=5
+  rotateAngle=5
+  modelhigh=54
+  x=-700
+  z=-900
+
+
+[Railway1]
+ CenterX=-180
+ CenterY=414
+ a=1
+ b=4
+ r=500 
+ w=10

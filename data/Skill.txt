@@ -1,0 +1,118 @@
+[Skill1]
+    name="压制"
+    Distance=30
+    demage=200
+    demageAdd=30
+    MaxLevel=3
+    MaxCoolDown=5
+    Info="立即对目标造成伤害，对目标造成200伤害，冷却时间5s 等级5"
+    ImagePath="UI\\Ability_Druid_ChallangingRoar.jpg"
+    AnimationIndex=2
+
+[Skill2]
+    name="撕裂"
+    Distance=30
+    aMp=-100
+    demage=200
+    demageAdd=50
+    MaxLevel=3
+    MaxCoolDown=0
+    ImagePath="UI\\Ability_Druid_SupriseAttack.jpg"
+    Info="割裂目标，对目标造成%d伤害"
+    AnimationIndex=3
+
+[Skill3]
+    name="致死打击"
+    Distance=1
+    aMp=-100
+    demage=500
+    demageAdd=50
+    MaxLevel=3
+    MaxCoolDown=5
+    Info="立即打击目标，对目标造成%d伤害"
+
+[Skill4]
+    name="寒冰箭"
+    aMp=-100
+    Distance=500
+    demage=500
+    demageAdd=50
+    MaxLevel=3
+    MaxCoolDown=0
+    Info="施放一只寒冰箭，对目标造成%d伤害 "
+    ImagePath="UI\\Spell_Frost_FrostBolt02.jpg"
+
+[Skill5]
+    name="霜冻冰星"
+    Distance=200
+    aMp=-100
+    demage=600
+    demageAdd=50
+    MaxLevel=3
+    MaxCoolDown=12
+    Info="施放一个火球，对目标造成%d伤害"
+    ImagePath="UI\\Spell_Frost_FrostNova.jpg"
+ 
+
+[Skill6]
+    name="寒冰护体"
+    aMp=-100
+    resist=500
+    resistAdd=50
+    MaxLevel=3
+    MaxCoolDown=3
+    Info="施放一个魔法盾，抵挡%d伤害"
+
+
+[Skill7]
+    name="心灵之火"
+    Distance=3
+    aMp=-100
+    demage=600
+    demageAdd=50
+    MaxLevel=3
+    MaxCoolDown=0
+    Info="施放一个魔法箭，对目标造成%d伤害"
+
+[Skill8]
+    name="治疗术"
+    aHp=800
+    MaxLevel=3
+    MaxCoolDown=3
+    Info="施放治疗术，当前生命增加%d"
+
+[Skill9]
+    name="真言术·盾"
+    resist=600
+    MaxCoolDown=3
+    Info="施放一个魔法盾，抵挡%d伤害"
+
+[Skill9]
+    name="绝望导言"
+    resist=600
+    MaxCoolDown=3
+    Info="施放一个魔法盾，抵挡%d伤害"
+
+[Skill10]
+    name="新手hp药剂"
+    aHp=800
+
+[Skill11]
+    name="达人hp药剂"
+    aHp=1000
+
+[Skill12]
+    name="天堂hp药剂"
+    aHp=1200
+
+[Skill13]
+    name="天堂Mp药剂"
+    aMp=800
+
+[Skill14]
+    name="天堂Mp药剂"
+    aMp=1000
+
+[Skill15]
+    name="天堂Mp药剂"
+    aMp=1200
